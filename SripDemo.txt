@@ -1,5 +1,8 @@
 Sample Demo File 
 It is changed in branched repositrory
 1
+<<<<<<< HEAD
 Added new line
 Added new line
+=======
+>>>>>>> parent of 697526d... made changes to SripDemo
