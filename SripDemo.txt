@@ -2,3 +2,4 @@ Sample Demo File
 It is changed in branched repositrory
 1
 Added new line
+Added new line
